@@ -718,7 +718,7 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/logo1.jpg);
   padding: 290px 0px 180px 0px;
   position: relative;
   overflow: hidden;
@@ -1861,7 +1861,7 @@ Pre Loader
     position: relative;
     width: 142px;
     height: 40px;
-    background: #fff;
+    background: #000;
 }
 
 .preloader-inner .dot {
@@ -1870,7 +1870,7 @@ Pre Loader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #8d99af;
+    background: #fff;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
